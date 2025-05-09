@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m Mumbi-Sec
+**👋 Hi there, I’m Mwamba**
 
 ♾️ **Cybersecurity Analyst | Jr  Penetration Tester | Bug Bounty Hunter in Training**
 
