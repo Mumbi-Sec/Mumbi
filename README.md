@@ -19,7 +19,7 @@ Here, I want to showcase how exactly I intend to achieve my mission.
  
   - Conducted both **external network** and **web application** penetration tests during my internship at Digitalsafe Limited zambia
     
-    [Access here:External pentest](https://github.com/Mumbi-Sec/Cybersecurity-portfolio/blob/ba8b4cedfe8116b16f2ae72fe7b0de8d5a49a4e8/Internship/External-Pentest.md)
+    [Access here: External pentest](https://github.com/Mumbi-Sec/Cybersecurity-portfolio/blob/ba8b4cedfe8116b16f2ae72fe7b0de8d5a49a4e8/Internship/External-Pentest.md)
     
   - Focused on practical, report-driven assessments.  
 
