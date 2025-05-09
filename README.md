@@ -9,7 +9,7 @@ Welcome to my GitHub! I’m a cybersecurity graduate focused on offensive securi
 🎯 My Mission: To maintain a secure state of the Internet by thinking like an attacker
 
 
-Here, I want to showcase how exactly I intend to achieve my mission.
+Here, I aim to showcase how exactly I intend to achieve my mission.
 
 ----
 
