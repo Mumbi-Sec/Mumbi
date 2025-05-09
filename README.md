@@ -23,7 +23,7 @@ Here, I want to showcase how exactly I intend to achieve my mission.
     
   - Focused on practical, report-driven assessments.  
 
- 🧠 **Bug Bounties:**  
+ 🐞 **Bug Bounties:**  
  
   1. Secured **3rd place** in a national bug bounty challenge by Zedbounty
      
