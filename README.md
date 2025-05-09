@@ -1,6 +1,6 @@
 **👋 Hi there, I’m Mwamba**
 
-♾️ **Cybersecurity Analyst | Jr  Penetration Tester | Bug Bounty Hunter in Training**
+♾️ **Cybersecurity Analyst | Jr  Penetration Tester**
 
 Welcome to my GitHub! I’m a cybersecurity graduate focused on offensive security, with a passion for penetration testing, vulnerability assessments and security research.
 
